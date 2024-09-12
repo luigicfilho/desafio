@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BACK/Kanban.API/obj
+/BACK/KanbanAppUnitTests/obj/Debug/net8.0
+/BACK/KanbanAppUnitTests/obj/Release/net8.0
